@@ -1,0 +1,155 @@
+{
+    "wall" : [
+      {
+        "title":"Kid Ship Sailor Birds",
+        "selling_price":"599",
+        "market_price":"1299",
+        "src":"https://www.asianpaints.com/content/dam/asianpaints/ecomm-pdts/wall-stickers/W107WH71L45_01.jpeg.image.384.384.medium.jpg"
+      },
+      {
+        "title":"Kids Musical Robots",
+        "selling_price":"599",
+        "market_price":"1249",    
+        "src":"https://www.asianpaints.com/content/dam/asianpaints/ecomm-pdts/wall-stickers/W107WH97L45_01.jpeg.image.384.384.medium.jpg"
+      },
+      {
+        "title":"Floral Wall Stickers",
+        "selling_price":"499",
+        "market_price":"1299",
+        "src":"https://www.asianpaints.com/content/dam/asianpaints/ecomm-pdts/wall-stickers/W107WI10L45_01.jpeg.image.384.384.medium.jpg"
+      },
+      {
+        "title":"Palm Paradise Nature",
+        "selling_price":"449",
+        "market_price":"999",
+        "src":"https://www.asianpaints.com/content/dam/asianpaints/ecomm-pdts/wall-stickers/W107WS23L45_01.jpeg.image.384.384.medium.jpg"
+      },
+      {
+        "title":"Hanging Dandelions",
+        "selling_price":"599",
+        "market_price":"1299",
+        "src":"https://www.asianpaints.com/content/dam/asianpaints/ecomm-pdts/wall-stickers/W107WI11L45_01.jpeg.image.384.384.medium.jpg"
+      },
+      {
+        "title":"Plantation Life Green",
+        "selling_price":"599",
+        "market_price":"1249",
+        "src":"https://www.asianpaints.com/content/dam/asianpaints/ecomm-pdts/wall-stickers/W107WS18L45_01.jpeg.image.384.384.medium.jpg"
+      }
+    ],
+  
+    "car":[
+      {
+        "title":"Mountain and Compass",
+        "selling_price":"1299",
+        "market_price":"2499",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/31512.webp"
+      },
+      {
+        "title":"God Bless My Car",
+        "selling_price":"999",
+        "market_price":"2199",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/19536.webp"
+      },
+      {
+        "title":"Sports Car Decal Wrap",
+        "selling_price":"2599",
+        "market_price":"3499",
+        "src":"https://www.tenstickers.in/webp/sticker/medium/sport-car-decal-wrap-design-car-sticker-27165.webp"
+      },
+      {
+        "title":"Halloween Face",
+        "selling_price":"1499",
+        "market_price":"2459",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/16727.webp"
+      },
+      {
+        "title":"Bat Halloween",
+        "selling_price":"1199",
+        "market_price":"2299",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/16742.webp"
+      },
+      {
+        "title":"Skull",
+        "selling_price":"1349",
+        "market_price":"2349",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/14292.webp"
+      }
+    ],
+    "laptop":[
+      {
+        "title":"Skeleton for Mac",
+        "selling_price":"749",
+        "market_price":"1549",
+        "src":"https://www.tenstickers.in/webp/sticker/medium/skeleton-macbook-skin-sticker-14879.webp"
+      },
+      {
+        "title":"Mysterious Figure",
+        "selling_price":"899",
+        "market_price":"1549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/11415.webp"
+      },
+      {
+        "title":"Rose Gold Green Marble",
+        "selling_price":"799",
+        "market_price":"1549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/23644.webp"
+      },
+      {
+        "title":"Blue Mandala",
+        "selling_price":"899",
+        "market_price":"1549",
+        "src":"https://www.tenstickers.in/webp/sticker/medium/blue-mandala-laptop-decal-12300.webp"
+      },
+      {
+        "title":"Viva Magenta",
+        "selling_price":"849",
+        "market_price":"1549",
+        "src":"https://www.tenstickers.in/webp/sticker/medium/viva-magenta-laptop-stickers-90730.webp"
+      },
+      {
+        "title":"North Pole",
+        "selling_price":"899",
+        "market_price":"1549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/13550.webp"
+      }
+    ],
+    "mobile":[
+      {
+        "title":"Believe In Yourself",
+        "selling_price":"249",
+        "market_price":"549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/15580.webp"
+      },
+      {
+        "title":"Paisley Illustration",
+        "selling_price":"249",
+        "market_price":"549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/22971.webp"
+      },
+      {
+        "title":"Zebra Texture",
+        "selling_price":"249",
+        "market_price":"549",
+        "src":"https://www.tenstickers.in/webp/sticker/medium/zebra-texture-iphone-sticker-15784.webp"
+      },
+      {
+        "title":"You Rock",
+        "selling_price":"249",
+        "market_price":"549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/15597.webp"
+      },
+      {
+        "title":"Straight Lines",
+        "selling_price":"249",
+        "market_price":"549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/15757.webp"
+      },
+      {
+        "title":"Love Phone Sticker",
+        "selling_price":"249",
+        "market_price":"549",
+        "src":"https://dbdzm869oupei.cloudfront.net/webp/sticker/medium/15482.webp"
+      }
+    ]
+  }
